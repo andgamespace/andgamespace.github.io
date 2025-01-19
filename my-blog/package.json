@@ -1,0 +1,21 @@
+{
+  "name": "my-blog",
+  "version": "1.0.0",
+  "description": "A personal blog built with html css js node.js and Express",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "andgamespace.github.io"
+  },
+  "keywords": [
+    "blog",
+    "node",
+    "express",
+    "personal"
+  ],
+  "author": "Ansh C",
+  "license": "ISC"
+}
