@@ -17,5 +17,10 @@
     "personal"
   ],
   "author": "Ansh C",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "marked": "^15.0.6"
+  }
 }
